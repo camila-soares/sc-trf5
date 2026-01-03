@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="52f8960c-8ed6-400f-bc13-5019aff2c002" activeEnvironment="Default" name="sgc" resourceRoot=""
+                    soapui-version="5.9.1" xmlns:con="http://eviware.com/soapui/config">
+    <con:settings/>
+    <con:properties/>
+    <con:wssContainer/>
+    <con:oAuth2ProfileContainer/>
+    <con:oAuth1ProfileContainer/>
+ </con:soapui-project>
